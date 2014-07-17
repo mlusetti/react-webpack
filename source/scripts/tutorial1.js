@@ -1,5 +1,5 @@
 /*** @jsx React.DOM */
-var React = require("react/lib/reactWithAddons");
+var React = require("react/addons");
 
 var CommentBox = React.createClass({
   render: function() {
